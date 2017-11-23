@@ -109,9 +109,6 @@ function gk_sortable_columns() {
 	'city'      		=> 'city',
 	'state'      		=> 'state',
 	'zip'      			=> 'zip',
-	'enrtp'				=> 'enrtp',
-	'lifesp'			=> 'lifesp',
-	'autopy'			=> 'autopy',
 	'refer'				=> 'refer',
   );
 }
